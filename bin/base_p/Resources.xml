@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Resources>
+	
+  <FreeTypeFonts group="InfoGroup" upload="false">
+		<font name="arial" family="arial" size="12" color="255;255;255;255" letterSpacing="0">
+			<!--<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>-->
+		</font>
+	</FreeTypeFonts>
+
+  <FreeTypeFonts group="Game" upload="false">
+    <font name="starcraft" family="starcraft" size="36" color="#A11313" letterSpacing="0">
+      <Effect alpha="1.0" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="255;128;0;255" offset="0"/>
+    </font>
+    <font name="bellflower" family="bellflower" size="48" color="#FFF700" letterSpacing="0">
+      <Effect alpha="1.0" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="#A11313" offset="0"/>
+    </font>
+  </FreeTypeFonts>
+
+  <Textures group="Intro" upload="false">
+    <texture id="duck_eye_big" path="textures/duck_eye_big"/>
+    <texture id="duck_big" path="textures/duck_big"/>
+  </Textures>
+  
+  <Textures group="Game" upload="false">
+    <texture id="duck_base" path="textures/duck_base"/>
+    <texture id="duck_armor" path="textures/duck_armor"/>
+    <texture id="duck_wing" path="textures/duck_wing"/>
+    <texture id="fish_base" path="textures/fish_base"/>
+    <texture id="anchovy_base" path="textures/anchovy_base"/>
+    <texture id="anchovy_radiance" path="textures/anchovy_radiance"/>
+    <texture id="egg_bomb" path="textures/egg_bomb"/>    
+    <texture id="gun_tower" path="textures/gun_tower"/>
+    <texture id="gun_tower_75" path="textures/gun_tower_75"/>
+    <texture id="gun_tower_50" path="textures/gun_tower_50"/>
+    <texture id="gun_tower_25" path="textures/gun_tower_25"/>
+    <texture id="gun_barrel" path="textures/gun_barrel"/>
+    <texture id="red_lamp" path="textures/red_lamp"/>
+    <texture id="green_lamp" path="textures/green_lamp"/>
+    <texture id="bullet" path="textures/bullet"/>
+  </Textures>
+
+  <Sounds group="Game" upload="false">
+    <sample id="intro" path="sounds/intro.ogg" mix="1" mode="stream"/>
+    <sample id="battle" path="sounds/ignis.ogg" mix="1" mode="stream+cache"/>
+    <sample id="defeat" path="sounds/defeat.ogg" mix="1" mode="stream+cache"/>
+    <sample id="victory" path="sounds/victory.ogg" mix="1" mode="stream+cache"/>
+    <sample id="tick" path="sounds/tick.ogg" mix="1" mode="cache"/>
+    <sample id="clank" path="sounds/clank.ogg" mix="12" mode="cache"/>
+    <sample id="shot" path="sounds/shot.ogg" mix="12" mode="cache"/>
+    <sample id="boom" path="sounds/boom.ogg" mix="12" mode="cache"/>
+    <sample id="headshot" path="sounds/headshot.ogg" mix="12" mode="cache"/>
+    <sample id="damaged" path="sounds/damaged.ogg" mix="12" mode="cache"/>
+    <sample id="destroyed" path="sounds/destroyed.ogg" mix="12" mode="cache"/>
+    <sample id="razor" path="sounds/razor.ogg" mix="12" mode="cache"/>
+  </Sounds>
+
+  <Textures group="Ui" upload="false">
+    <texture id="start_normal" path="textures/start_normal"/>
+    <texture id="start_active" path="textures/start_active"/>
+    <texture id="start_pressed" path="textures/start_pressed"/>
+    <texture id="restart_normal" path="textures/restart_normal"/>
+    <texture id="restart_active" path="textures/restart_active"/>
+    <texture id="restart_pressed" path="textures/restart_pressed"/>
+  </Textures>
+  
+  <!--Сейчас не используется, так как нужно реализовать параметризацию шейдеров через представление материала-->
+  <Shaders>
+    <Shader id="hl" vs="shaders/hl" ps="shaders/hl" group="Game" />
+  </Shaders>
+
+</Resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<GUI>
+  <Layer name="IntroLayer">
+    <Controls>
+      <IntroScene name="Scene">
+        <Controls>
+          <Button name="StartButton">
+            <position x="512" y="184"/>
+            <state normal="start_normal" active="start_active" pressed="start_pressed"/>
+          </Button>
+        </Controls>
+      </IntroScene>
+    </Controls>
+  </Layer>
+	<Layer name="StageLayer">
+		<Controls>
+      <StageScene name="Scene">
+        <Controls>
+          <Button name="RestartButton">
+            <position x="940" y="680"/>
+            <state normal="restart_normal" active="restart_active" pressed="restart_pressed"/>
+          </Button>
+        </Controls>
+      </StageScene>
+    </Controls>
+	</Layer>
+</GUI>
