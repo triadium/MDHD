@@ -1,5 +1,5 @@
 CountTarget = 12
 Speed = 750
 Time = 120
-DefeatText = ПОРАЖЕНИЕ! :(
-VictoryText = ПОБЕДА! :)
+DefeatText = DEFEAT! :(
+VictoryText = VICTORY! :)
