@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="buttons.svg"
+   inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_wing.png"
+   inkscape:export-xdpi="52"
+   inkscape:export-ydpi="52">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="252.78585"
+     inkscape:cy="950.30272"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g830"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g830">
+      <g
+         id="g846"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\restart_normal.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001">
+        <circle
+           r="10.5"
+           cy="23.640421"
+           cx="31.079754"
+           id="path815"
+           style="opacity:1;fill:#3eaf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="9"
+           style="opacity:1;fill:#cbff82;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse817"
+           cx="30.707632"
+           cy="23.965548" />
+        <path
+           sodipodi:nodetypes="cccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path819"
+           d="m 25.053776,23.026844 -2.138156,2.53906 h 1.737252 l 5.951495,6.322756 6.989539,-7.479612 -6.955148,-8.066724 -6.38679,5.749077 2.405425,-0.133635 3.930761,-3.392911 5.001231,5.710558 -5.063299,5.600619 -3.986115,-4.343536 2.021718,-0.03341 z"
+           style="fill:#3eaf00;fill-rule:evenodd;stroke:none;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+      </g>
+      <g
+         id="g841"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\restart_active.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001">
+        <circle
+           style="opacity:1;fill:#4fdf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle821"
+           cx="54.465836"
+           cy="23.239517"
+           r="10.5" />
+        <circle
+           cy="23.564644"
+           cx="54.093716"
+           id="circle823"
+           style="opacity:1;fill:#cbff82;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           r="9" />
+        <path
+           style="fill:#4fdf00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 48.439859,22.62594 46.301703,25.165 h 1.737252 l 5.951495,6.322756 6.989539,-7.479612 -6.955148,-8.066724 -6.38679,5.749077 2.405425,-0.133635 3.930761,-3.392911 5.001231,5.710558 -5.063299,5.600619 -3.986115,-4.343536 2.021718,-0.03341 z"
+           id="path825"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccc" />
+      </g>
+      <g
+         id="g836"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\restart_pressed.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001">
+        <circle
+           r="10.5"
+           cy="22.838614"
+           cx="77.183746"
+           id="circle827"
+           style="opacity:1;fill:#cbff82;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="9"
+           style="opacity:1;fill:#3eaf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle829"
+           cx="77.869957"
+           cy="22.634573" />
+        <path
+           sodipodi:nodetypes="cccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path831"
+           d="m 72.74527,21.695869 -2.138156,2.53906 h 1.737252 l 5.951495,6.322756 6.989539,-7.479612 -6.955148,-8.066724 -6.38679,5.749077 2.405425,-0.133635 3.930761,-3.392911 5.001231,5.710558 -5.063299,5.600619 -3.986115,-4.343536 2.021718,-0.03341 z"
+           style="fill:#cbff82;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g853"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\start_normal.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <rect
+           ry="3.1404169"
+           rx="3.1404169"
+           y="44.228424"
+           x="19.560268"
+           height="10.866816"
+           width="29.787859"
+           id="rect830"
+           style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           ry="3.1404169"
+           rx="3.1404169"
+           y="44.587601"
+           x="20.524889"
+           height="9.2590141"
+           width="27.858616"
+           id="rect834"
+           style="opacity:1;fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect832"
+           width="27.858616"
+           height="9.2590141"
+           x="20.524889"
+           y="45.032326"
+           rx="3.1404169"
+           ry="3.1404169" />
+        <rect
+           ry="0.8159318"
+           rx="1.6704329"
+           y="45.386654"
+           x="23.143957"
+           height="1.312901"
+           width="23.162878"
+           id="rect836"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           ry="0.8159318"
+           rx="1.6704329"
+           y="52.559544"
+           x="23.399647"
+           height="1.2134156"
+           width="22.651501"
+           id="rect840"
+           style="opacity:1;fill:#5f5f5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text844"
+           y="52.086914"
+           x="23.109175"
+           style="font-style:normal;font-weight:normal;font-size:7.15931368px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stephen;-inkscape-font-specification:Stephen;fill:#363636;fill-opacity:1;stroke-width:0.26458332px"
+             y="52.086914"
+             x="23.109175"
+             id="tspan842"
+             sodipodi:role="line">START</tspan></text>
+      </g>
+      <g
+         id="g869"
+         transform="translate(31.003265,-0.13363476)"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\start_active.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <rect
+           style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect855"
+           width="29.787859"
+           height="10.866816"
+           x="19.560268"
+           y="44.228424"
+           rx="3.1404169"
+           ry="3.1404169" />
+        <rect
+           style="opacity:1;fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect857"
+           width="27.858616"
+           height="9.2590141"
+           x="20.524889"
+           y="44.587601"
+           rx="3.1404169"
+           ry="3.1404169" />
+        <rect
+           ry="3.1404169"
+           rx="3.1404169"
+           y="45.032326"
+           x="20.524889"
+           height="9.2590141"
+           width="27.858616"
+           id="rect859"
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect861"
+           width="23.162878"
+           height="1.312901"
+           x="23.143957"
+           y="45.386654"
+           rx="1.6704329"
+           ry="0.8159318" />
+        <rect
+           style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect863"
+           width="22.651501"
+           height="1.2134156"
+           x="23.399647"
+           y="52.559544"
+           rx="1.6704329"
+           ry="0.8159318" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.15931368px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           x="23.109175"
+           y="52.086914"
+           id="text867"><tspan
+             sodipodi:role="line"
+             id="tspan865"
+             x="23.109175"
+             y="52.086914"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stephen;-inkscape-font-specification:Stephen;fill:#5d5d5d;fill-opacity:1;stroke-width:0.26458332px;">START</tspan></text>
+      </g>
+      <g
+         id="g885"
+         transform="translate(63.075608,-0.53453905)"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\start_pressed.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <rect
+           style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect871"
+           width="29.787859"
+           height="10.866816"
+           x="19.560268"
+           y="44.228424"
+           rx="3.1404169"
+           ry="3.1404169" />
+        <rect
+           style="opacity:1;fill:#545454;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect873"
+           width="27.858616"
+           height="9.2590141"
+           x="20.524889"
+           y="44.587601"
+           rx="3.1404169"
+           ry="3.1404169" />
+        <rect
+           ry="3.1404169"
+           rx="3.1404169"
+           y="45.032326"
+           x="20.524889"
+           height="9.2590141"
+           width="27.858616"
+           id="rect875"
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect877"
+           width="20.579195"
+           height="1.1664546"
+           x="24.489096"
+           y="45.854374"
+           rx="1.670433"
+           ry="0.8159318" />
+        <rect
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect879"
+           width="20.124859"
+           height="1.0780662"
+           x="24.716265"
+           y="52.227173"
+           rx="1.670433"
+           ry="0.8159318" />
+        <text
+           id="text889"
+           y="55.902775"
+           x="22.818012"
+           style="font-style:normal;font-weight:normal;font-size:5.93417931px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           transform="scale(1.071881,0.93293938)"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stephen;-inkscape-font-specification:Stephen;fill:#d2d2d2;fill-opacity:1;stroke-width:0.26458332px"
+             y="55.902775"
+             x="22.818012"
+             id="tspan887"
+             sodipodi:role="line">START</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.36073399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="24.458195"
+           y="51.807262"
+           id="text883"><tspan
+             sodipodi:role="line"
+             id="tspan881"
+             x="24.458195"
+             y="51.807262"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stephen;-inkscape-font-specification:Stephen;fill:#363636;fill-opacity:1;stroke-width:0.26458332px">START</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="gun.svg"
+   inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\particles\gun_tower_fragment.png"
+   inkscape:export-xdpi="74"
+   inkscape:export-ydpi="74">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2327">
+      <stop
+         style="stop-color:#f24c4c;stop-opacity:1;"
+         offset="0"
+         id="stop2336" />
+      <stop
+         style="stop-color:#f24c4c;stop-opacity:0;"
+         offset="1"
+         id="stop2338" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2327"
+       id="radialGradient2329"
+       cx="122.82451"
+       cy="144.42418"
+       fx="122.82451"
+       fy="144.42418"
+       r="5.924767"
+       gradientTransform="matrix(4.903076,1.4283564,-0.48272962,1.6570513,-409.67555,-270.33127)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="338.9674"
+     inkscape:cy="567.13672"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g830"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g830">
+      <g
+         id="g902"
+         transform="translate(67.090774,-9.071429)"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\gun_tower.png"
+         inkscape:export-xdpi="74.280327"
+         inkscape:export-ydpi="74.280327">
+        <path
+           d="M -1.0022621,85.765929 A 29.065561,29.065561 0 0 1 28.0633,56.700369 29.065561,29.065561 0 0 1 57.12886,85.76593 l -29.065561,0 z"
+           sodipodi:end="0"
+           sodipodi:start="3.1415927"
+           sodipodi:ry="29.065561"
+           sodipodi:rx="29.065561"
+           sodipodi:cy="85.76593"
+           sodipodi:cx="28.063299"
+           sodipodi:type="arc"
+           id="path867"
+           style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#005c7b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect882-2"
+           width="65.427773"
+           height="6.4994478"
+           x="-4.6505861"
+           y="79.266479" />
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path880-6"
+           cx="14.835565"
+           cy="68.040924"
+           rx="3.6830206"
+           ry="2.7222331" />
+      </g>
+      <g
+         id="g4626"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\gun_barrel.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001"
+         transform="translate(0,-4.0090437)">
+        <g
+           transform="translate(1.3879571,15.50163)"
+           id="g844">
+          <path
+             style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 93.615588,17.695886 a 2.987272,1.4077466 0 0 0 -2.983323,1.364738 h -0.04105 V 27.5096 h 6.066342 v -8.448976 h -0.05864 a 2.987272,1.4077466 0 0 0 -2.98332,-1.364738 z"
+             id="path884"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 92.223202,18.177334 a 2.987272,1.5702328 0 0 0 -0.229548,0.07122 v 7.817294 h 0.229548 z"
+             id="rect874"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#006b8e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 92.060676,18.226766 a 2.987272,1.5702328 0 0 0 -0.538692,0.22117 v 7.699168 h 0.538692 z"
+             id="rect876"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 91.568062,18.424478 a 2.987272,1.5702328 0 0 0 -0.471668,0.299088 v 7.423538 h 0.471668 z"
+             id="rect878"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 93.672556,24.089798 a 3.9447316,2.0304823 0 0 0 -3.925824,1.833893 h -0.01338 v 0.144094 a 3.9447316,2.0304823 0 0 0 -0.005,0.05278 3.9447316,2.0304823 0 0 0 0.005,0.07875 v 8.17335 h 7.907775 V 25.92369 h -0.04608 a 3.9447316,2.0304823 0 0 0 -3.92247,-1.833893 z"
+             id="path914"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 91.457477,24.769144 a 3.9447316,2.0304823 0 0 0 -0.237094,0.09132 v 9.674646 h 0.237094 z"
+             id="rect868"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#006b8e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 91.289083,24.831975 a 3.9447316,2.0304823 0 0 0 -0.556286,0.265575 v 9.437557 h 0.556286 z"
+             id="rect870"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 90.780551,25.068227 a 3.9447316,2.0304823 0 0 0 -0.488423,0.337626 v 9.129254 h 0.488423 z"
+             id="rect866"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path867-8"
+           d="M 95.098797,47.611049 A 29.065561,29.065561 0 0 0 83.50829,50.03674 h 8.979813 a 26.793769,26.793769 0 0 1 2.610694,-0.153995 26.793769,26.793769 0 0 1 2.808097,0.153995 h 8.730216 A 29.065561,29.065561 0 0 0 95.098797,47.611049 Z"
+           style="opacity:1;fill:#005c7b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <ellipse
+         style="opacity:1;fill:#0fd700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path840"
+         cx="83.989449"
+         cy="89.866104"
+         rx="7.416729"
+         ry="2.80633"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\green_lamp.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001" />
+      <ellipse
+         ry="2.80633"
+         rx="7.416729"
+         cy="89.598831"
+         cx="100.02561"
+         id="ellipse844"
+         style="opacity:1;fill:#ff0101;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\red_lamp.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001" />
+      <g
+         id="g2461"
+         inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\gun_tower_75.png"
+         inkscape:export-xdpi="74"
+         inkscape:export-ydpi="74">
+        <path
+           style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path830"
+           sodipodi:type="arc"
+           sodipodi:cx="50.920967"
+           sodipodi:cy="127.07481"
+           sodipodi:rx="29.065561"
+           sodipodi:ry="29.065561"
+           sodipodi:start="3.1415927"
+           sodipodi:end="0"
+           d="m 21.855406,127.0748 a 29.065561,29.065561 0 0 1 29.065562,-29.065555 29.065561,29.065561 0 0 1 29.06556,29.065565 l -29.065561,0 z" />
+        <rect
+           y="120.57536"
+           x="18.207081"
+           height="6.4994478"
+           width="65.427773"
+           id="rect832"
+           style="opacity:1;fill:#005c7b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           ry="2.7222331"
+           rx="3.6830206"
+           cy="109.3498"
+           cx="37.693233"
+           id="ellipse834"
+           style="opacity:1;fill:#f3f3f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="csccccc"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 40.992295,117.46597 c 0,0 1.753658,-6.05047 1.469983,-4.94449 -0.664651,2.5913 0.656501,4.71298 1.336347,3.74177 l 4.191316,-1.62377 3.559499,-1.04892 -4.944486,2.67269 z"
+           id="path841"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csccccc"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 56.394526,118.92817 c 0,0 1.753658,-6.05047 1.469983,-4.94449 -0.664651,2.5913 2.2629,-2.18509 2.942746,-3.1563 l -0.816869,4.70734 6.961285,-0.48196 -8.251778,2.20022 z"
+           id="path841-4"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path870"
+           d="m 53.988443,98.552377 3.207234,5.345393 -5.879929,1.20271 4.009044,7.08264 -13.229843,-6.1472 11.893494,5.21176 -4.009044,-7.08264 5.879931,-0.53454 z"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2441"
+           d="m 27.52339,120.86938 3.741772,3.87541 -1.469983,-3.34087 16.83798,2.93997 -13.898015,-3.34087 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2443"
+           d="m 73.493746,120.46848 -0.534538,3.60813 -5.612662,1.33635 5.078122,-2.13815 -8.285356,0.8018 8.285356,-1.87088 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g2471"
+         inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\gun_tower_50.png"
+         inkscape:export-xdpi="74"
+         inkscape:export-ydpi="74">
+        <path
+           d="m 23.459024,169.83794 a 29.065561,29.065561 0 0 1 29.065562,-29.06556 29.065561,29.065561 0 0 1 29.065561,29.06556 H 52.524586 Z"
+           sodipodi:end="0"
+           sodipodi:start="3.1415927"
+           sodipodi:ry="29.065561"
+           sodipodi:rx="29.065561"
+           sodipodi:cy="169.83794"
+           sodipodi:cx="52.524586"
+           sodipodi:type="arc"
+           id="path880"
+           style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#005c7b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect882"
+           width="65.427773"
+           height="6.4994478"
+           x="19.810698"
+           y="163.33849" />
+        <ellipse
+           style="opacity:1;fill:#cacaca;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse884"
+           cx="39.296852"
+           cy="152.11293"
+           rx="3.6830206"
+           ry="2.7222331" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path886"
+           d="m 36.849617,161.0309 c 0,0 1.28178,-1.17109 2.765499,-2.46685 0.39642,-0.3462 -0.796361,-1.77038 -0.391704,-2.11443 0.564698,-0.48011 1.819956,1.97968 2.53192,1.74841 1.487328,-0.48314 2.401907,-3.26956 2.310563,-2.91343 -0.664649,2.5913 0.656501,4.71298 1.336347,3.74177 l 4.191316,-1.62377 3.559499,-1.04892 -4.944486,2.67269 c -1.377504,1.30447 -4.87299,2.92664 -6.658534,3.211 -2.025278,0.32255 -2.386734,-0.808 -4.70042,-1.20647 z"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cssssccccsc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path888"
+           d="m 52.519118,161.82492 c 0,0 7.232683,-6.1841 6.949008,-5.07812 -0.664651,2.5913 2.2629,-2.18509 2.942746,-3.1563 l -0.816869,4.70734 4.007961,-4.7378 -0.271732,4.47912 3.225056,-0.22328 -2.673121,4.3475 -5.578657,-2.14728 z"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cscccccccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 55.59206,141.3155 12.962572,9.08716 6.300353,8.69971 -6.300353,-8.69971 -5.078121,-2.27179 -10.557146,-0.26727 4.009044,7.08264 -11.35697,-3.99287 0.242557,5.3578 -2.11543,-7.51213 11.893494,5.21176 -4.009044,-7.08264 c 5.301015,1.25963 4.14333,-1.17142 4.812808,-2.55838 l 0.372865,2.87476 6.707822,0.88633 z"
+           id="path890"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccc"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 26.994223,163.73191 3.741772,3.87541 -1.469983,-3.34087 5.386247,0.94046 0.135133,2.73092 0.599575,-1.33527 8.080863,2.12684 -7.580945,-3.24018 8.243022,1.38541 1.974085,0.33179 -2.952588,-0.70976 6.823425,-0.97932 2.549757,4.3206 -1.708779,-4.43348 4.189991,-0.59708 -14.550675,1.04114 -8.249146,-1.98297 z"
+           id="path2445"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccc"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 72.964579,163.33101 -0.534538,3.60813 -1.228691,0.29255 0.808066,2.42531 -1.700183,-2.21291 -6.948294,1.66546 -3.252637,-0.31434 2.890629,0.002 1.426605,-0.38445 0.754859,-0.7608 0.598125,0.35081 6.116981,-1.86498 -8.285356,0.8018 1.019907,-0.2303 -5.994806,-3.18814 7.126653,2.93256 6.133602,-1.385 z"
+           id="path2447"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g2484"
+         inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\gun_tower_25.png"
+         inkscape:export-xdpi="74"
+         inkscape:export-ydpi="74">
+        <path
+           style="opacity:1;fill:#0086b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2394"
+           sodipodi:type="arc"
+           sodipodi:cx="53.593662"
+           sodipodi:cy="208.45839"
+           sodipodi:rx="29.065561"
+           sodipodi:ry="29.065561"
+           sodipodi:start="3.1415927"
+           sodipodi:end="0"
+           d="m 24.528101,208.45839 a 29.065561,29.065561 0 0 1 29.065562,-29.06556 29.065561,29.065561 0 0 1 29.065561,29.06556 H 53.593662 Z" />
+        <rect
+           y="201.95894"
+           x="20.879776"
+           height="6.4994478"
+           width="65.427773"
+           id="rect2396"
+           style="opacity:1;fill:#005c7b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           ry="2.7222331"
+           rx="3.6830206"
+           cy="190.73338"
+           cx="40.365929"
+           id="ellipse2398"
+           style="opacity:1;fill:#9e9e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cssssssccccsssscc"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 33.909652,195.97639 c 0,0 0.990988,-0.39003 3.111224,-0.29536 0.636741,0.0284 3.320644,1.80273 3.663318,1.50347 0.396419,-0.3462 -2.934517,-2.63901 -2.52986,-2.98306 0.564698,-0.48011 3.289939,0.30925 4.001902,0.078 0.387395,-0.12584 1.372376,1.80022 1.627472,0.96865 0.724298,-2.36106 0.951096,-6.48406 0.883543,-6.22069 -0.664644,2.5913 2.393753,8.2543 3.073599,7.28309 l 2.921786,-0.28742 3.559499,-1.04892 -4.944486,2.67269 c -1.377504,1.30447 -4.872991,2.92663 -6.658534,3.211 -1.289942,0.20544 -4.633312,0.23827 -5.585587,0.0807 -2.013399,-0.33322 -6.792018,-1.03486 -7.043586,-1.92731 -0.166774,-0.59164 3.145041,0.10199 4.093126,-0.43931 1.203143,-0.68692 0.108796,-2.54686 -0.173416,-2.59547 z"
+           id="path2400"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csscccccccc"
+           style="fill:#fb0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 53.588196,200.44537 c 0,0 5.42408,-2.97718 1.916553,-5.00225 -0.96781,-0.55876 5.170563,-0.61432 5.032455,-0.0759 -0.664648,2.5913 2.2629,-2.18509 2.942746,-3.1563 l -0.816869,4.70734 4.007961,-4.7378 -0.271732,4.47912 3.225056,-0.22328 -2.673121,4.3475 -5.578657,-2.14728 z"
+           id="path2402"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path2404"
+           d="m 56.661138,179.93595 12.962572,9.08716 6.300353,8.69971 -8.112151,-9.45453 -2.516912,-0.52661 -2.947332,0.9507 2.197921,-1.94106 -10.557146,-0.26727 4.009044,7.08264 -11.35697,-3.99287 0.242557,5.3578 -2.11543,-7.51213 11.893494,5.21176 -4.009044,-7.08264 c 5.301015,1.25963 4.14333,-1.17142 4.812808,-2.55838 l 0.372865,2.87476 6.707822,0.88633 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2406"
+           d="m 41.860861,182.75669 2.362353,1.7009 -5.197173,0.94494 6.142112,-0.56697 7.46503,4.34673 -5.102677,-4.34673 7.276042,-3.1183 -6.898066,2.17336 -1.889882,-3.21279 -0.09449,3.59077 z"
+           style="fill:#ff1717;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2408"
+           d="m 28.064732,196.45833 8.409969,-10.29985 -5.669642,7.55952 5.858631,-4.81919 -4.252232,4.63021 4.913691,0.28348 -5.764139,1.32292 -5.291665,5.95312 2.173363,-3.68527 z"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2410"
+           d="m 76.439084,192.76488 1.870885,1.00226 0.801809,3.94223 1.870888,2.80633 -11.225321,0.80181 7.015826,-1.5368 -5.011303,-2.53906 4.162194,0.48117 2.118638,1.12245 -0.334086,-3.47451 -7.884451,-9.82215 3.073598,2.40542 z"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2449"
+           d="m 28.052557,202.11541 3.741772,3.87541 -1.469983,-3.34087 5.386247,0.94046 0.135133,2.73092 0.599575,-1.33527 8.080863,2.12684 -7.580945,-3.24018 8.243022,1.38541 1.974085,0.33179 -2.952588,-0.70976 6.823425,-0.97932 2.549757,4.3206 -1.708779,-4.43348 4.189991,-0.59708 -14.550675,1.04114 -8.249146,-1.98297 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2451"
+           d="m 74.022913,201.71451 -0.534538,3.60813 -1.228691,0.29255 0.808066,2.42531 -1.700183,-2.21291 -6.948294,1.66546 -3.252637,-0.31434 2.890629,0.002 1.426605,-0.38445 0.754859,-0.7608 0.598125,0.35081 6.116981,-1.86498 -8.285356,0.8018 1.019907,-0.2303 -5.994806,-3.18814 7.126653,2.93256 6.133602,-1.385 z"
+           style="fill:#ff1919;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccscc"
+         inkscape:connector-curvature="0"
+         id="path2531"
+         d="m 119.05346,148.09356 c 5.65522,3.95378 5.86915,0.55943 7.8896,-1.0749 l -0.73324,-2.11902 1.13414,-1.48649 -0.39746,-2.6656 0.98045,-1.49494 c 0,0 -3.42142,-0.69993 -4.35695,-0.0794 -0.68058,0.45146 -1.20083,0.77706 -4.44022,0.7778 -3.42266,2.84787 -0.85207,4.16204 -0.0763,8.14251 z"
+         style="fill:#0dc3ff;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient2329);stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\particles\gun_tower_fragment.png"
+         inkscape:export-xdpi="74"
+         inkscape:export-ydpi="74" />
+    </g>
+  </g>
+</svg>

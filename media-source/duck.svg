@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="duck.svg"
+   inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_wing.png"
+   inkscape:export-xdpi="52"
+   inkscape:export-ydpi="52">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6027"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6025" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6021"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6019" />
+    </linearGradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient6067"
+       gradientUnits="userSpaceOnUse"
+       x="54.444695"
+       y="170.04697"
+       gradientTransform="matrix(0.60418773,0,0,0.60418773,35.701878,-69.484747)">
+      <meshrow
+         id="meshrow6069">
+        <meshpatch
+           id="meshpatch6071">
+          <stop
+             path="c 5.53322,0  11.0664,0  16.5997,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6073" />
+          <stop
+             path="c 0,6.90429  0,13.8086  0,20.7129"
+             style="stop-color:#005858;stop-opacity:1"
+             id="stop6075" />
+          <stop
+             path="c -5.53322,0  -11.0664,0  -16.5997,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6077" />
+          <stop
+             path="c 0,-6.90429  0,-13.8086  0,-20.7129"
+             style="stop-color:#005858;stop-opacity:1"
+             id="stop6079" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="320.12923"
+     inkscape:cy="886.54134"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g830"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g830">
+      <g
+         id="g860"
+         transform="translate(15.213542,-3.2127976)"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck-base.png"
+         inkscape:export-xdpi="52.880459"
+         inkscape:export-ydpi="52.880459">
+        <path
+           style="fill:#f9b900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 90.421713,33.067643 c 0.193321,-0.178928 0.442503,-0.327584 0.704052,-0.358895 0.326118,-0.03904 0.714034,0.0085 0.958685,0.227635 0.348788,0.31242 0.317138,0.881179 0.472469,1.322916 0.215719,1.162715 0.939401,1.899648 1.842635,2.504094 0.55114,0.367101 1.575235,0.938318 2.220609,1.08668 1.230228,0.282812 1.930371,0.502961 3.307293,0.307106 0.251414,-0.03576 1.169484,-0.233525 1.559154,-0.637835 0.34921,-0.362337 0.50028,-0.914557 0.51971,-1.417411 0.0202,-0.523131 -0.23868,-1.093827 -0.42522,-1.511905 -0.91501,-2.050693 -1.56223,-3.099934 -0.75596,-5.338913 0.60984,-1.341562 1.62679,-2.352579 2.84447,-2.958753 1.05938,-0.561288 2.65338,-0.339645 3.74235,-0.192096 1.95936,0.509442 2.91016,1.184656 3.52405,2.678373 0.24461,0.610719 0.35819,1.27954 0.37797,1.937129 0.0287,0.952872 -0.0739,1.506086 -0.37797,2.409599 -0.25421,0.755373 -1.04181,1.719373 -1.18118,2.504092 0.0108,2.205457 1.29079,4.272294 1.6064,6.472843 0.16112,1.123417 0.35046,2.286231 0.14174,3.401785 -0.18576,0.992815 -0.62007,1.958826 -1.21221,2.777093 -0.59873,0.827372 -1.38289,1.561585 -2.28407,2.042104 -1.29091,0.688331 -2.7958,0.948598 -4.25223,1.08668 -2.30909,0.218921 -4.844282,0.19272 -6.945313,-0.425221 -1.782743,-0.524329 -3.41287,-1.614792 -4.771951,-2.88207 -1.140851,-1.063789 -2.07116,-2.396485 -2.69308,-3.82701 -0.64161,-1.475815 -0.925714,-3.116822 -0.992187,-4.724701 -0.04196,-1.014913 0.377976,-3.023809 0.377976,-3.023809 0.150972,-1.207779 0.862381,-2.664605 1.691808,-3.45951 z"
+           id="path832"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccssaasccccsscaaaaasssssc" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path828"
+           cx="106.09319"
+           cy="29.841707"
+           r="2.0552454" />
+        <circle
+           style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path826"
+           cx="106.09319"
+           cy="29.841707"
+           r="0.87406993" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 111.16215,30.968561 c 0.26571,-0.04414 0.5021,0.219916 0.70158,0.400902 0.24257,0.220077 0.3331,0.573512 0.56795,0.801809 0.17274,0.167924 0.37269,0.325054 0.60135,0.400904 0.80443,0.266839 1.92725,0.245976 2.44457,0.204507 0.36925,-0.0296 0.0485,0.927695 -0.2045,1.265476 -0.36524,0.487625 -2.16248,0.5207 -2.16248,0.5207 0,0 0.94041,0.442566 0.85786,0.832352 -0.10037,0.473924 -0.38669,0.482971 -1.36374,0.502318 -1.51028,0.02991 -2.37578,0.05881 -3.16502,-0.33478 -0.58659,-0.292529 -0.83873,-0.622303 -1.09774,-0.974584 -0.23785,-0.323496 -0.4252,-0.61766 -0.35366,-0.946908 0.0401,-0.184677 0.23823,-0.304717 0.40091,-0.400904 0.30943,-0.182961 0.6849,-0.297054 0.98842,-0.489666 0.73948,-0.469266 0.92053,-1.638604 1.7845,-1.782126 z"
+           id="path834"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssscasssssss" />
+        <path
+           style="fill:#fe7210;fill-opacity:1;fill-rule:evenodd;stroke:#eb6001;stroke-width:0.26511249;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 110.74702,33.928572 2.03501,0.546108 0.32859,0.08818 -1.41866,-0.279934 z"
+           id="path817"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 112.32742,34.410829 0.21053,0.042 c 0,0 -1.24602,1.021879 -1.72223,1.154977 0.31518,-0.504737 0.51222,-0.545228 0.65449,-0.838567 0.14226,-0.293339 0.021,-0.628058 0.021,-0.628058 0.20079,0.07875 0.69262,-0.03776 0.83625,0.269648 z"
+           id="path819"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccczcc" />
+        <path
+           style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 112.12309,34.365607 0.20433,0.04522 0.16919,0.101058 c -0.56178,0.464533 -1.07476,0.913377 -1.72223,1.154978 z"
+           id="path821"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccccsssc"
+           inkscape:connector-curvature="0"
+           id="path835"
+           d="m 110.65253,27.975448 -8.22099,-7.181547 1.65366,3.590773 -4.252243,-1.937127 3.071063,2.740327 -5.291672,-1.039435 4.252232,2.362351 -5.303591,0.251042 4.191011,1.224801 -4.462567,0.83926 4.535707,0.425223 c 0,0 1.61553,-1.785566 2.83483,-2.220608 0.85254,-0.304183 1.90359,-0.702528 2.80705,-0.64676 0.80684,0.0498 2.57911,0.835746 2.57911,0.835746 0.55695,-0.200072 1.6064,0.755954 1.6064,0.755954 z"
+           style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g922"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_armor.png"
+         inkscape:export-xdpi="52"
+         inkscape:export-ydpi="52"
+         transform="translate(1.0690781)">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path892"
+           d="m 140.08745,43.292934 -4.63022,0.661452 -0.4149,4.316908 0.99972,4.011465 2.72247,4.475577 3.54354,2.693079 12.47321,0.04725 3.87425,-5.102677 -0.11275,-4.594397 -1.16292,-4.288044 -5.13193,-1.121735 -0.73703,-0.723328 -0.84011,-1.981947 -2.8877,-0.173826 1.15993,1.90282 -0.37238,1.4983 -0.97091,0.741458 -2.12612,0.330728 -2.45684,-0.472469 z"
+           style="fill:#008080;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path894"
+           d="m 158.54277,49.80159 -4.58376,-0.472808 -0.33409,4.209495 5.0306,0.85771 z"
+           style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path896"
+           d="m 153.62492,53.538277 -2.60588,2.672696 3.76223,3.287691 3.87425,-5.102677 z"
+           style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path898"
+           d="m 151.01904,56.210973 -6.74855,-0.267269 -1.96243,3.507711 12.47321,0.04725 z"
+           style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path900"
+           d="m 144.27049,55.943704 -3.0736,-2.004523 -2.43237,2.819154 3.54354,2.69308 -3.54354,-2.69308 3.54354,2.69308 z"
+           style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path902"
+           d="m 141.19689,53.939181 -2.07134,-3.274052 -3.0835,1.617628 2.72247,4.475578 z"
+           style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path904"
+           d="m 139.12555,50.665129 -0.4009,-3.207234 -3.26742,-3.503509 -0.4149,4.316907 0.99972,4.011464 z"
+           style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path906"
+           d="m 153.95901,49.328782 -1.71109,-4.936971 5.13193,1.121735 1.16292,4.288044 z"
+           style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path908"
+           d="m 148.06627,46.710273 -0.46655,-1.054984 0.97091,-0.741458 0.37238,-1.498301 -1.15993,-1.90282 1.3509,0.0736 1.10935,2.068334 -0.56714,2.063111 z"
+           style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path910"
+           d="m 147.59972,45.655289 0.46655,1.054984 -2.30918,0.456916 -3.16555,-0.188986 -3.96875,-3.496281 1.46466,-0.188989 2.92931,2.220616 2.45684,0.472466 z"
+           style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g108">
+        <g
+           inkscape:export-ydpi="52"
+           inkscape:export-xdpi="52"
+           inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_wing.png"
+           id="g850"
+           transform="translate(18.672822,-5.7701159)">
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 144.5184,30.806789 c -0.26342,-0.555028 -1.18814,-0.375243 -1.27586,0.232831 -0.1811,1.255331 1.14879,6.366312 3.08852,8.612459 1.54261,1.78629 4.54252,2.999111 7.54073,3.10597 1.89109,0.0674 4.01928,-0.645454 5.21517,-2.086071 1.08662,-1.308985 1.3898,-3.060966 1.06911,-4.719738 -0.2828,-1.462769 -0.83629,-2.299247 -1.77315,-2.972651 -1.03273,-0.742303 -2.46666,-0.959309 -3.72885,-0.808352 -0.94764,0.113336 -2.24152,1.041244 -3.5963,1.338869 -1.10074,0.241814 -2.26347,0.317084 -2.91974,-0.03321 -0.49883,-0.266261 -3.16912,-1.720895 -3.61963,-2.670097 z"
+             id="path833"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csssssassssc" />
+          <circle
+             style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path837"
+             cx="155.35582"
+             cy="37.193401"
+             r="4.511157" />
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle841"
+             cx="155.35582"
+             cy="37.193401"
+             r="3.4201674" />
+          <circle
+             r="2.1333594"
+             cy="37.193401"
+             cx="155.35582"
+             id="circle839"
+             style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="0.9864217"
+             cy="37.193401"
+             cx="155.35582"
+             id="circle843"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="52"
+         inkscape:export-xdpi="52"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_armor.png"
+         id="g878"
+         transform="matrix(0.25296884,0,0,0.3498793,72.817529,54.383398)"
+         style="stroke-width:3.36130071">
+        <path
+           style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88934404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 153.74513,51.293617 c -294.39794,428.090543 -147.1989675,214.045273 0,0 z"
+           id="path874"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g889"
+           inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\particles\armor_fragment.png"
+           inkscape:export-xdpi="74.540001"
+           inkscape:export-ydpi="74.540001">
+          <path
+             sodipodi:nodetypes="cccccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path858"
+             d="m 142.19922,43.292937 -6.56832,0.841757 -0.58856,5.493657 1.41818,5.104951 3.86203,5.695576 5.02678,3.427188 17.69421,0.06012 5.49593,-6.493616 -0.16003,-5.846787 -1.64969,-5.456923 -7.28003,-1.427508 c -2.62727,0.354726 -2.42519,2.474809 -5.21653,0.664315 l -1.37731,0.943572 -3.01606,0.420881 -3.48521,-0.601259 c -5.30412,2.53639 -3.05844,-1.628211 -4.15546,-2.825931 z"
+             style="fill:#008080;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path860"
+             d="m 168.37951,51.575791 -14.46462,-1.999115 7.48827,6.754386 7.13631,1.091513 z"
+             style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path862"
+             d="m 161.40316,56.331062 -11.65885,-2.066926 13.29923,9.652059 5.49593,-6.49362 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path864"
+             d="m 157.70653,59.732309 -9.94803,-3.074211 -2.40917,7.197968 17.69421,0.06012 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path866"
+             d="m 148.13319,59.392186 -4.36015,-2.550937 -3.45049,3.587628 5.02678,3.427189 -5.02678,-3.427189 5.02678,3.427189 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path868"
+             d="m 143.77304,56.841249 -2.93833,-4.166527 -4.37419,2.058577 3.86203,5.695578 z"
+             style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path870"
+             d="m 140.83471,52.674722 c -3.94662,-13.260389 -7.3162,-8.531573 -4.37419,2.058577 z"
+             style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path872"
+             d="m 153.91489,49.576676 5.5349,-4.885318 7.28004,1.427508 1.64968,5.456925 z"
+             style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path876"
+             d="m 151.14205,49.365669 10.43164,4.10886 -10.48858,-0.208379 -7.31207,3.575099 -3.65155,-13.307808 2.07773,-0.240505 4.15545,2.825935 3.48522,0.601255 z"
+             style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8893441px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="52.880459"
+         inkscape:export-xdpi="52.880459"
+         inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck-base.png"
+         transform="translate(34.413675,52.533802)"
+         id="g907">
+        <g
+           id="g919"
+           inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\target_fragment.png"
+           inkscape:export-xdpi="74.540001"
+           inkscape:export-ydpi="74.540001">
+          <path
+             inkscape:export-ydpi="74.540001"
+             inkscape:export-xdpi="74.540001"
+             inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\target_fragment.png"
+             style="fill:#f9b900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 99.995655,47.947799 c -1.810829,-1.080265 -4.39132,0.11414 -5.088695,-0.102151 -1.101776,-0.379423 -2.109231,-1.168521 -2.949174,-2.085569 -0.705072,-0.769796 1.164888,-1.339542 0.780527,-2.374721 0.469662,-6.180467 2.02795,-0.308493 4.116442,-1.4977 4.068825,-0.976342 3.784665,3.152441 3.1409,6.060141 z"
+             id="path891"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccsccc" />
+          <path
+             sodipodi:nodetypes="ccsccc"
+             inkscape:connector-curvature="0"
+             id="path909"
+             d="m 95.350587,46.908365 c -0.642076,-0.298545 -1.557055,0.03155 -1.804327,-0.02823 -0.390663,-0.104859 -0.747883,-0.322936 -1.045706,-0.576375 -0.250002,-0.212743 0.413041,-0.3702 0.276756,-0.656285 0.16653,-1.708053 0.719062,-0.08526 1.45959,-0.413909 1.442709,-0.269825 1.341953,0.871218 1.113687,1.674799 z"
+             style="fill:#d8a100;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\target_fragment.png"
+             inkscape:export-xdpi="74.540001"
+             inkscape:export-ydpi="74.540001" />
+          <path
+             inkscape:export-ydpi="74.540001"
+             inkscape:export-xdpi="74.540001"
+             inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\target_fragment.png"
+             style="fill:#ffd250;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 99.81511,45.349213 c -0.642077,-0.483689 -1.557053,0.05111 -1.804326,-0.04574 -0.390664,-0.169887 -0.747883,-0.523206 -1.045707,-0.933815 -0.250001,-0.344677 0.413041,-0.599781 0.276756,-1.063283 0.166531,-2.767309 0.719065,-0.138128 1.459592,-0.670596 1.442705,-0.437158 1.341955,1.411507 1.113685,2.713432 z"
+             id="path911"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccsccc" />
+          <path
+             inkscape:export-ydpi="74.540001"
+             inkscape:export-xdpi="74.540001"
+             inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\target_fragment.png"
+             style="fill:#e8ad00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 96.49563,45.443708 c -0.813492,-0.483689 -1.972746,0.05111 -2.286033,-0.04574 -0.49496,-0.169887 -0.947547,-0.523206 -1.324881,-0.933815 -0.316746,-0.344677 0.523311,-0.599781 0.350641,-1.063283 0.210991,-2.767309 0.911033,-0.138128 1.849263,-0.670596 1.827873,-0.437158 1.700217,1.411507 1.41101,2.713432 z"
+             id="path913"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccsccc" />
+        </g>
+      </g>
+      <g
+         id="g191"
+         transform="matrix(2.0325096,0,0,2.0325096,-172.81739,-158.52273)"
+         style="stroke-width:0.49200258"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\duck_big.png"
+         inkscape:export-xdpi="104.06927"
+         inkscape:export-ydpi="104.06927">
+        <g
+           id="g126"
+           transform="translate(1.5827961,99.418701)"
+           inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck-base.png"
+           inkscape:export-xdpi="52.880459"
+           inkscape:export-ydpi="52.880459"
+           style="stroke-width:0.49200258">
+          <path
+             style="fill:#f9b900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 90.421713,33.067643 c 0.193321,-0.178928 0.442503,-0.327584 0.704052,-0.358895 0.326118,-0.03904 0.714034,0.0085 0.958685,0.227635 0.348788,0.31242 0.317138,0.881179 0.472469,1.322916 0.215719,1.162715 0.939401,1.899648 1.842635,2.504094 0.55114,0.367101 1.575235,0.938318 2.220609,1.08668 1.230228,0.282812 1.930371,0.502961 3.307293,0.307106 0.251414,-0.03576 1.169484,-0.233525 1.559154,-0.637835 0.34921,-0.362337 0.50028,-0.914557 0.51971,-1.417411 0.0202,-0.523131 -0.23868,-1.093827 -0.42522,-1.511905 -0.91501,-2.050693 -1.56223,-3.099934 -0.75596,-5.338913 0.60984,-1.341562 1.62679,-2.352579 2.84447,-2.958753 1.05938,-0.561288 2.65338,-0.339645 3.74235,-0.192096 1.95936,0.509442 2.91016,1.184656 3.52405,2.678373 0.24461,0.610719 0.35819,1.27954 0.37797,1.937129 0.0287,0.952872 -0.0739,1.506086 -0.37797,2.409599 -0.25421,0.755373 -1.04181,1.719373 -1.18118,2.504092 0.0108,2.205457 1.29079,4.272294 1.6064,6.472843 0.16112,1.123417 0.35046,2.286231 0.14174,3.401785 -0.18576,0.992815 -0.62007,1.958826 -1.21221,2.777093 -0.59873,0.827372 -1.38289,1.561585 -2.28407,2.042104 -1.29091,0.688331 -2.7958,0.948598 -4.25223,1.08668 -2.30909,0.218921 -4.844282,0.19272 -6.945313,-0.425221 -1.782743,-0.524329 -3.41287,-1.614792 -4.771951,-2.88207 -1.140851,-1.063789 -2.07116,-2.396485 -2.69308,-3.82701 -0.64161,-1.475815 -0.925714,-3.116822 -0.992187,-4.724701 -0.04196,-1.014913 0.377976,-3.023809 0.377976,-3.023809 0.150972,-1.207779 0.862381,-2.664605 1.691808,-3.45951 z"
+             id="path110"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cssccssaasccccsscaaaaasssssc" />
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13038069;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle112"
+             cx="106.09319"
+             cy="29.841707"
+             r="2.0552454" />
+          <circle
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13038069;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle114"
+             cx="106.09319"
+             cy="29.841707"
+             r="0.87406993" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 111.16215,30.968561 c 0.26571,-0.04414 0.5021,0.219916 0.70158,0.400902 0.24257,0.220077 0.3331,0.573512 0.56795,0.801809 0.17274,0.167924 0.37269,0.325054 0.60135,0.400904 0.80443,0.266839 1.92725,0.245976 2.44457,0.204507 0.36925,-0.0296 0.0485,0.927695 -0.2045,1.265476 -0.36524,0.487625 -2.16248,0.5207 -2.16248,0.5207 0,0 0.94041,0.442566 0.85786,0.832352 -0.10037,0.473924 -0.38669,0.482971 -1.36374,0.502318 -1.51028,0.02991 -2.37578,0.05881 -3.16502,-0.33478 -0.58659,-0.292529 -0.83873,-0.622303 -1.09774,-0.974584 -0.23785,-0.323496 -0.4252,-0.61766 -0.35366,-0.946908 0.0401,-0.184677 0.23823,-0.304717 0.40091,-0.400904 0.30943,-0.182961 0.6849,-0.297054 0.98842,-0.489666 0.73948,-0.469266 0.92053,-1.638604 1.7845,-1.782126 z"
+             id="path116"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sssssscasssssss" />
+          <path
+             style="fill:#fe7210;fill-opacity:1;fill-rule:evenodd;stroke:#eb6001;stroke-width:0.13043603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 110.74702,33.928572 2.03501,0.546108 0.32859,0.08818 -1.41866,-0.279934 z"
+             id="path118"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 112.32742,34.410829 0.21053,0.042 c 0,0 -1.24602,1.021879 -1.72223,1.154977 0.31518,-0.504737 0.51222,-0.545228 0.65449,-0.838567 0.14226,-0.293339 0.021,-0.628058 0.021,-0.628058 0.20079,0.07875 0.69262,-0.03776 0.83625,0.269648 z"
+             id="path120"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccczcc" />
+          <path
+             style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 112.12309,34.365607 0.20433,0.04522 0.16919,0.101058 c -0.56178,0.464533 -1.07476,0.913377 -1.72223,1.154978 z"
+             id="path122"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             sodipodi:nodetypes="cccccccccccsssc"
+             inkscape:connector-curvature="0"
+             id="path124"
+             d="m 110.65253,27.975448 -8.22099,-7.181547 1.65366,3.590773 -4.252243,-1.937127 3.071063,2.740327 -5.291672,-1.039435 4.252232,2.362351 -5.303591,0.251042 4.191011,1.224801 -4.462567,0.83926 4.535707,0.425223 c 0,0 1.61553,-1.785566 2.83483,-2.220608 0.85254,-0.304183 1.90359,-0.702528 2.80705,-0.64676 0.80684,0.0498 2.57911,0.835746 2.57911,0.835746 0.55695,-0.200072 1.6064,0.755954 1.6064,0.755954 z"
+             style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           id="g148"
+           inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_armor.png"
+           inkscape:export-xdpi="52"
+           inkscape:export-ydpi="52"
+           transform="translate(-45.302185,91.272545)"
+           style="stroke-width:0.49200258">
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path128"
+             d="m 140.08745,43.292934 -4.63022,0.661452 -0.4149,4.316908 0.99972,4.011465 2.72247,4.475577 3.54354,2.693079 12.47321,0.04725 3.87425,-5.102677 -0.11275,-4.594397 -1.16292,-4.288044 -5.13193,-1.121735 -0.73703,-0.723328 -0.84011,-1.981947 -2.8877,-0.173826 1.15993,1.90282 -0.37238,1.4983 -0.97091,0.741458 -2.12612,0.330728 -2.45684,-0.472469 z"
+             style="fill:#008080;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path130"
+             d="m 158.54277,49.80159 -4.58376,-0.472808 -0.33409,4.209495 5.0306,0.85771 z"
+             style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path132"
+             d="m 153.62492,53.538277 -2.60588,2.672696 3.76223,3.287691 3.87425,-5.102677 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path134"
+             d="m 151.01904,56.210973 -6.74855,-0.267269 -1.96243,3.507711 12.47321,0.04725 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path136"
+             d="m 144.27049,55.943704 -3.0736,-2.004523 -2.43237,2.819154 3.54354,2.69308 -3.54354,-2.69308 3.54354,2.69308 z"
+             style="fill:#005858;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path138"
+             d="m 141.19689,53.939181 -2.07134,-3.274052 -3.0835,1.617628 2.72247,4.475578 z"
+             style="fill:#006f6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path140"
+             d="m 139.12555,50.665129 -0.4009,-3.207234 -3.26742,-3.503509 -0.4149,4.316907 0.99972,4.011464 z"
+             style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path142"
+             d="m 153.95901,49.328782 -1.71109,-4.936971 5.13193,1.121735 1.16292,4.288044 z"
+             style="fill:#008686;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path144"
+             d="m 148.06627,46.710273 -0.46655,-1.054984 0.97091,-0.741458 0.37238,-1.498301 -1.15993,-1.90282 1.3509,0.0736 1.10935,2.068334 -0.56714,2.063111 z"
+             style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path146"
+             d="m 147.59972,45.655289 0.46655,1.054984 -2.30918,0.456916 -3.16555,-0.188986 -3.96875,-3.496281 1.46466,-0.188989 2.92931,2.220616 2.45684,0.472466 z"
+             style="fill:#00b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <g
+           transform="translate(-70.137887,111.31064)"
+           id="g162"
+           style="stroke-width:0.49200258">
+          <g
+             inkscape:export-ydpi="52"
+             inkscape:export-xdpi="52"
+             inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_wing.png"
+             id="g160"
+             transform="translate(18.672822,-5.7701159)"
+             style="stroke-width:0.49200258">
+            <path
+               style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13017568px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 144.5184,30.806789 c -0.26342,-0.555028 -1.18814,-0.375243 -1.27586,0.232831 -0.1811,1.255331 1.14879,6.366312 3.08852,8.612459 1.54261,1.78629 4.54252,2.999111 7.54073,3.10597 1.89109,0.0674 4.01928,-0.645454 5.21517,-2.086071 1.08662,-1.308985 1.3898,-3.060966 1.06911,-4.719738 -0.2828,-1.462769 -0.83629,-2.299247 -1.77315,-2.972651 -1.03273,-0.742303 -2.46666,-0.959309 -3.72885,-0.808352 -0.94764,0.113336 -2.24152,1.041244 -3.5963,1.338869 -1.10074,0.241814 -2.26347,0.317084 -2.91974,-0.03321 -0.49883,-0.266261 -3.16912,-1.720895 -3.61963,-2.670097 z"
+               id="path150"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csssssassssc" />
+            <circle
+               style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13017569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle152"
+               cx="155.35582"
+               cy="37.193401"
+               r="4.511157" />
+            <circle
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13017569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle154"
+               cx="155.35582"
+               cy="37.193401"
+               r="3.4201674" />
+            <circle
+               r="2.1333594"
+               cy="37.193401"
+               cx="155.35582"
+               id="circle156"
+               style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13017569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <circle
+               r="0.9864217"
+               cy="37.193401"
+               cx="155.35582"
+               id="circle158"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13017569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g269"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\duck_eye_big.png"
+         inkscape:export-xdpi="97.290001"
+         inkscape:export-ydpi="97.290001"
+         transform="matrix(1.4209734,0,0,1.4209734,-49.239967,-40.560137)"
+         style="stroke-width:0.70374292">
+        <circle
+           r="2.9397492"
+           cy="105.90229"
+           cx="109.98142"
+           id="circle112-8"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18649186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="1.2502383"
+           cy="105.90229"
+           cx="109.98142"
+           id="circle114-7"
+           style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18649186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g908"
+         inkscape:export-filename="D:\game-projects\src\GameOffJam\MDHD\bin\base_p\textures\egg_bomb.png"
+         inkscape:export-xdpi="52"
+         inkscape:export-ydpi="52">
+        <path
+           inkscape:export-ydpi="97"
+           inkscape:export-xdpi="97"
+           inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\egg_bomb.png"
+           sodipodi:nodetypes="sssss"
+           inkscape:connector-curvature="0"
+           id="path893"
+           d="m 78.626005,41.081755 c 0,3.455772 -2.3079,4.688248 -5.07742,4.688248 -2.76952,0 -4.95189,-1.232476 -4.95189,-4.688248 0,-3.455773 2.18237,-7.826213 4.95189,-7.826213 2.76952,0 5.07742,4.37044 5.07742,7.826213 z"
+           style="opacity:1;fill:url(#meshgradient6067);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           style="stroke-width:1.16477525"
+           transform="matrix(0.8585347,0,0,0.8585347,-20.697628,-50.865401)"
+           inkscape:export-ydpi="97.290001"
+           inkscape:export-xdpi="97.290001"
+           inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\egg_bomb.png"
+           id="g269-7">
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30866542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle112-8-1"
+             cx="109.98142"
+             cy="105.90229"
+             r="2.9397492" />
+          <circle
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30866542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle114-7-3"
+             cx="109.98142"
+             cy="105.90229"
+             r="1.2502383" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="texts.svg"
+   inkscape:export-filename="D:\game-projects\learn\MDHD\bin\base_p\textures\duck_wing.png"
+   inkscape:export-xdpi="52"
+   inkscape:export-ydpi="52">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="336.03686"
+     inkscape:cy="853.39654"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g830"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g830">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.97287369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0101;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="136.29355"
+         y="39.03215"
+         id="text832"
+         transform="matrix(0.70266484,-0.07811715,-0.24341518,1.4502147,0,0)"
+         inkscape:export-filename="C:\game-projects\MDHD\media-source\effects\textures\particles\headshot_text.png"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-ydpi="74.540001"><tspan
+           sodipodi:role="line"
+           x="136.29355"
+           y="39.03215"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AcmeFont;-inkscape-font-specification:AcmeFont;fill:#ff0101;fill-opacity:1;stroke-width:0.26458332px"
+           id="tspan834">HEADSHOT</tspan></text>
+      <text
+         inkscape:export-ydpi="74.540001"
+         inkscape:export-xdpi="74.540001"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\name_text.png"
+         transform="matrix(0.70266485,-0.07811715,-0.24341518,1.4502147,0,0)"
+         id="text12"
+         y="60.012875"
+         x="116.93604"
+         style="font-style:normal;font-weight:normal;font-size:6.97287369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0101;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chinyen;-inkscape-font-specification:Chinyen;fill:#ff0101;fill-opacity:1;stroke-width:0.26458332px"
+           y="60.012875"
+           x="116.93604"
+           sodipodi:role="line">MEGA DUCK HUNTING</tspan></text>
+      <g
+         id="g834"
+         inkscape:export-filename="C:\game-projects\MDHD\bin\base_p\textures\deluxe_text.png"
+         inkscape:export-xdpi="191.91565"
+         inkscape:export-ydpi="191.91565"
+         transform="translate(8.1517205,-9.0871639)">
+        <path
+           inkscape:transform-center-x="7.4896936e-006"
+           d="m 148.98007,67.36804 -3.46816,-1.166188 -2.02377,3.048362 -2.42042,-2.74403 -3.27681,1.628077 -0.72414,-3.586612 -3.65184,-0.228452 1.16619,-3.468163 -3.04836,-2.023767 2.74403,-2.420423 -1.62808,-3.276815 3.58661,-0.724133 0.22845,-3.651843 3.46817,1.166189 2.02376,-3.048363 2.42043,2.74403 3.27681,-1.628076 0.72413,3.586611 3.65185,0.228452 -1.16619,3.468163 3.04836,2.023767 -2.74403,2.420423 1.62808,3.276815 -3.58661,0.724133 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.2406249"
+           sodipodi:arg1="0.97882549"
+           sodipodi:r2="8.6056223"
+           sodipodi:r1="11.215372"
+           sodipodi:cy="58.061047"
+           sodipodi:cx="142.72192"
+           sodipodi:sides="12"
+           id="path14"
+           style="opacity:1;fill:#f5f500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffff43;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79374987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path16"
+           sodipodi:sides="12"
+           sodipodi:cx="142.72192"
+           sodipodi:cy="58.061047"
+           sodipodi:r1="9.2852774"
+           sodipodi:r2="7.124649"
+           sodipodi:arg1="0.97882549"
+           sodipodi:arg2="1.2406249"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 147.90309,65.766365 -2.87132,-0.965495 -1.67549,2.523759 -2.00388,-2.2718 -2.7129,1.347895 -0.59951,-2.969378 -3.02338,-0.189137 0.96549,-2.871314 -2.52376,-1.675489 2.2718,-2.003884 -1.34789,-2.712896 2.96937,-0.599514 0.18914,-3.023384 2.87132,0.965495 1.67548,-2.523759 2.00389,2.2718 2.71289,-1.347895 0.59952,2.969378 3.02338,0.189137 -0.96549,2.871314 2.52376,1.67549 -2.2718,2.003883 1.34789,2.712896 -2.96938,0.599514 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path827"
+           d="m 137.35162,53.379113 12.36208,6.051457 1.3479,2.712897 -2.96938,0.599514 -12.36208,-6.05146 -1.3479,-2.712894 z"
+           style="fill:#f8ff8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           id="text825"
+           y="59.450871"
+           x="135.9787"
+           style="font-style:normal;font-weight:normal;font-size:3.13384271px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tarzan;-inkscape-font-specification:Tarzan;fill:#008000;fill-opacity:1;stroke-width:0.26458332px"
+             y="59.450871"
+             x="135.9787"
+             id="tspan823"
+             sodipodi:role="line">DELUXE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
