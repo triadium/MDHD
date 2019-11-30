@@ -22,8 +22,10 @@ namespace Game {
 	private:	
 		void Init();
 		void ShowInfoText(std::string text, float showTime);
+		void ShowCenterText(std::string text, float showTime, int line);
 
 	private:
+		float _timeToShowCaptions;
 		float _timeToIntroShow;
 		float _timeToShowDucks;
 		float _timeToComplete;
@@ -32,6 +34,8 @@ namespace Game {
 		// обрабатывать это все универсальным способом (функторами с контекстом)
 		TimedSpline<float> _duckScaleFactor;
 		float _time;
+		Object::Ptr _NamesCaption;
+		Object::Ptr _PresentCaption;
 		Object::Ptr _bigDuckLeft;
 		Object::Ptr _bigDuckRight;
 		FPoint _duckOffset;
