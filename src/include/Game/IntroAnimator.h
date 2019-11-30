@@ -34,8 +34,6 @@ namespace Game {
 		// обрабатывать это все универсальным способом (функторами с контекстом)
 		TimedSpline<float> _duckScaleFactor;
 		float _time;
-		Object::Ptr _NamesCaption;
-		Object::Ptr _PresentCaption;
 		Object::Ptr _bigDuckLeft;
 		Object::Ptr _bigDuckRight;
 		FPoint _duckOffset;
